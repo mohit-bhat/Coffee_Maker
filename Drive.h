@@ -1,3 +1,10 @@
+/*
+* Drive.
+* Written by Mohit Bhat
+* Heads funtions to drive the coffee maker project
+*/
+
+
 #ifndef DRIVE_H__
 #define DRIVE_H__
 

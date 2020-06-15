@@ -1,3 +1,9 @@
+/*
+* Drive.c
+* Written by Mohit Bhat
+* Provides funtions to drive the coffee maker project
+*/
+
 //headers
 #include <stdbool.h>
 #include <stdint.h>
